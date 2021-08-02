@@ -1,0 +1,13 @@
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\bin\Debug\netcoreapp3.1\eLink Section 2.exe
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\bin\Debug\netcoreapp3.1\eLink Section 2.deps.json
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\bin\Debug\netcoreapp3.1\eLink Section 2.runtimeconfig.json
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\bin\Debug\netcoreapp3.1\eLink Section 2.runtimeconfig.dev.json
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\bin\Debug\netcoreapp3.1\eLink Section 2.dll
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\bin\Debug\netcoreapp3.1\eLink Section 2.pdb
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\obj\Debug\netcoreapp3.1\eLink Section 2.csprojAssemblyReference.cache
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\obj\Debug\netcoreapp3.1\eLink Section 2.AssemblyInfoInputs.cache
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\obj\Debug\netcoreapp3.1\eLink Section 2.AssemblyInfo.cs
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\obj\Debug\netcoreapp3.1\eLink Section 2.csproj.CoreCompileInputs.cache
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\obj\Debug\netcoreapp3.1\eLink Section 2.dll
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\obj\Debug\netcoreapp3.1\eLink Section 2.pdb
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 2\eLink Section 2\obj\Debug\netcoreapp3.1\eLink Section 2.genruntimeconfig.cache

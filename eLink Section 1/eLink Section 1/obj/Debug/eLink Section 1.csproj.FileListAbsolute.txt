@@ -1,0 +1,16 @@
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\bin\Debug\eLink Section 1.exe.config
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\bin\Debug\eLink Section 1.exe
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\bin\Debug\eLink Section 1.pdb
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\bin\Debug\EPPlus.dll
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\bin\Debug\EPPlus.xml
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\obj\Debug\eLink Section 1.csprojAssemblyReference.cache
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\obj\Debug\eLink_Section_1.Form1.resources
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\obj\Debug\eLink_Section_1.Properties.Resources.resources
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\obj\Debug\eLink Section 1.csproj.GenerateResource.cache
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\obj\Debug\eLink Section 1.csproj.CoreCompileInputs.cache
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\obj\Debug\eLink Section 1.csproj.CopyComplete
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\obj\Debug\eLink Section 1.exe
+C:\Users\crism\OneDrive\Рабочий стол\eLink\eLink Section 1\eLink Section 1\obj\Debug\eLink Section 1.pdb
